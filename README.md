@@ -1,5 +1,10 @@
 # d_shop
 
+# Output
+![Group 3 2](https://github.com/MuhammadDanishMalik/Fruit-Shop/assets/140817259/d6cbe4f0-6205-4d68-855d-aab546d72722)
+
+
+
 A new Flutter project.
 
 ## Getting Started
